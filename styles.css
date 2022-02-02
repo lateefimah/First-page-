@@ -12,6 +12,18 @@
     justify-content: center;
 }
 
+.navbar ul {
+    align-items: center;
+}
+
+.navbar li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding-left: 100px;
+    color: red;
+}
+
 .navbar .container {
     margin: 0 auto;
     text-align: center;
